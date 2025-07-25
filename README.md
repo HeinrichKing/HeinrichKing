@@ -16,14 +16,12 @@ With a strong background in mathematics and computer science, I aim to generate 
 - Data Cleaning and Visualization
 - Real-world case studies in Python and SQL
 
-🎓 My undergraduate thesis explored **probabilistic error bounds for distributed statistical estimation**, graduating with **honors**.
-
 ---
 
 ## 📫 Contact Me
 
 - 📧 Email: [heinrichgodinezk@gmail.com](mailto:heinrichgodinezk@gmail.com)  
-- 💼 LinkedIn: [linkedin.com/in/heinrichgodinez](https://www.linkedin.com/in/heinrichgodinez)  
+- 💼 LinkedIn: [linkedin.com/in/heinrichgodinezk](https://www.linkedin.com/in/heinrichgodinezk)  
 - 💻 Portfolio & Projects: [github.com/HeinrichKing](https://github.com/HeinrichKing)
 
 ---
