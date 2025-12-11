@@ -33,7 +33,7 @@ With a strong background in mathematics and computer science, I aim to generate 
 ## 📫 Contact Me
 
 - 📧 Email: [heinrichgodinezk@gmail.com](mailto:heinrichgodinezk@gmail.com)  
-- 💼 LinkedIn: [linkedin.com/in/heinrichgodinezk](https://www.linkedin.com/in/heinrichgodinez-datascientist/)  
+- 💼 LinkedIn: [linkedin.com/in/heinrichgodinez-datascientist](https://www.linkedin.com/in/heinrichgodinez-datascientist/)  
 - 💻 Portfolio & Projects: [github.com/HeinrichKing](https://github.com/HeinrichKing)
 
 ---
