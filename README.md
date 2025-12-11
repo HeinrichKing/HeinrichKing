@@ -1,16 +1,15 @@
 <!-- ========== BANNER ========== -->
 <div id="header" align="center">
  
-
+<img src= "https://github.com/HeinrichKing/HeinrichKing/blob/main/BANNER.png" width="640" height="359" alt="Heinrich Godinez III King - Data Scientist"/>
 <div id="badges" align="center">
   <a href="https://www.linkedin.com/in/heinrichgodinez-datascientist/">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
   </a>
- 
+ </div>
 </div>
 
-#  Hi, I'm Heinrich Godinez III King <img decoding="async" src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
-
+ #  Hi, I'm Heinrich Godinez III King <img decoding="async" src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
 🎯 **Data Scientist | Python Developer | SQL | Machine Learning | Bilingual (ES/EN)**  
 📍 Based in Mexico | Passionate about solving real-world problems through data  
 
