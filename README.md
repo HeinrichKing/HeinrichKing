@@ -1,4 +1,15 @@
-# 👋 Hi, I'm Heinrich Godinez III King
+<!-- ========== BANNER ========== -->
+<div id="header" align="center">
+ 
+
+<div id="badges" align="center">
+  <a href="https://www.linkedin.com/in/heinrichgodinez-datascientist/">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+  </a>
+ 
+</div>
+
+#  Hi, I'm Heinrich Godinez III King <img decoding="async" src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
 
 🎯 **Data Scientist | Python Developer | SQL | Machine Learning | Bilingual (ES/EN)**  
 📍 Based in Mexico | Passionate about solving real-world problems through data  
@@ -11,10 +22,12 @@ I enjoy solving problems in statistics and probability using tools like machine 
 With a strong background in mathematics and computer science, I aim to generate strategic insights that help businesses thrive.
 
 🔭 I recently completed a Data Science bootcamp at **TripleTen**, where I built projects involving:
-- Predictive Modeling
-- Statistical Hypothesis Testing
-- Data Cleaning and Visualization
-- Real-world case studies in Python and SQL
+- 🔮 Predictive Modeling (ML)
+- 📊 Data Analysis & Visualization
+- 🧹 Data Cleaning & Feature Engineering
+- 📐 Statistical Hypothesis Testing
+- 🗃️ SQL querying & database analysis
+- 🧠 Real-world industry case studies
 
 ---
 
@@ -30,6 +43,8 @@ With a strong background in mathematics and computer science, I aim to generate 
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
 ![SQL](https://img.shields.io/badge/SQL-003B57?style=flat&logo=postgresql&logoColor=white)
+![Power BI](https://img.shields.io/badge/Power%20BI-F2C811?style=flat&logo=powerbi&logoColor=black)
+![Excel](https://img.shields.io/badge/Excel-217346?style=flat&logo=microsoft-excel&logoColor=white)
 ![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat&logo=pandas&logoColor=white)
 ![NumPy](https://img.shields.io/badge/NumPy-013243?style=flat&logo=numpy&logoColor=white)
 ![Matplotlib](https://img.shields.io/badge/Matplotlib-11557C?style=flat&logo=plotly&logoColor=white)
